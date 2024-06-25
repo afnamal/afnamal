@@ -7,6 +7,7 @@ Currently, I am working on a game project for children using Unity. In addition 
 ## 🌐 Social Media
 - [LinkedIn](https://www.linkedin.com/in/a-faruk-namal)
 - [GitHub](https://github.com/afnamal)
+  
 🏅 Projects
 
 Falcim
