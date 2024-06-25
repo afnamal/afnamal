@@ -33,7 +33,7 @@ Currently, I am working on a game project for children using Unity. In addition 
 ## 🛠️ Technologies and Tools
 ### Languages and Frameworks:
 ![JavaScript](https://cdn-icons-png.flaticon.com/24/919/919828.png) JavaScript
-![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) Vue.js
+![Vue.js](https://img.icons8.com/color/24/000000/vue-js.png) Vue.js
 ![React](https://cdn-icons-png.flaticon.com/24/919/919851.png) React
 ![Node.js](https://cdn-icons-png.flaticon.com/24/919/919825.png) Node.js
 ![Python](https://cdn-icons-png.flaticon.com/24/919/919852.png) Python
