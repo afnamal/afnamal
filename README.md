@@ -5,9 +5,8 @@ Hello! I am a frontend web developer with a strong passion for creating visually
 Currently, I am working on a game project for children using Unity. In addition to my web development skills, I have a keen interest in artificial intelligence and neural networks. I enjoy exploring how these technologies can be integrated into my projects to enhance their functionality and user experience.
 
 ## 🌐 Social Media
-- [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/a-faruk-namal) LinkedIn
-- [![GitHub](https://cdn-icons-png.flaticon.com/24/25/25231.png)](https://github.com/afnamal) GitHub
-
+- [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/a-faruk-namal) [LinkedIn](https://www.linkedin.com/in/a-faruk-namal)
+- [![GitHub](https://cdn-icons-png.flaticon.com/24/733/733609.png)](https://github.com/afnamal) [GitHub](https://github.com/afnamal)
 ## 🏅 Projects
 ### Falcım
 - A coffee fortune-telling application developed using Vue.js and Firebase.
