@@ -6,7 +6,8 @@ Currently, I am working on a game project for children using Unity. In addition 
 🌐 Social Media
 
 🏅 Projects
-Falcım
+
+Falcim
 
     A coffee fortune-telling application developed using Vue.js and Firebase.
     Supports multiple languages, including Turkish, English, Arabic, and Greek.
