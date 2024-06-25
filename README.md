@@ -49,11 +49,11 @@ Currently, I am working on a game project for children using Unity. In addition 
 ![MS SQL](https://cdn-icons-png.flaticon.com/24/919/919836.png) MS SQL
 
 ### Others:
-- ![Git](https://cdn-icons-png.flaticon.com/24/919/919843.png) Git
-- ![Docker](https://cdn-icons-png.flaticon.com/24/919/919853.png) Docker
-- ![Postman](https://img.icons8.com/ios-filled/24/ffffff/postman.png) Postman
-- ![Jupyter Notebook](https://img.icons8.com/ios-filled/24/ffffff/jupyter.png) Jupyter Notebook
-- ![Pytest](https://img.icons8.com/ios-filled/24/ffffff/test-tube.png) Pytest
+ ![Git](https://cdn-icons-png.flaticon.com/24/919/919843.png) Git
+ ![Docker](https://cdn-icons-png.flaticon.com/24/919/919853.png) Docker
+ ![Postman](https://img.icons8.com/ios-filled/24/ffffff/postman.png) Postman
+ ![Jupyter Notebook](https://img.icons8.com/ios-filled/24/ffffff/jupyter.png) Jupyter Notebook
+ ![Pytest](https://img.icons8.com/ios-filled/24/ffffff/test-tube.png) Pytest
 
 ---
 
