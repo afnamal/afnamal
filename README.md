@@ -3,8 +3,10 @@
 Hello! I am a frontend web developer with a strong passion for creating visually appealing and user-friendly websites. My expertise lies in Vue.js, React, and JavaScript. I love crafting seamless and interactive user experiences.
 
 Currently, I am working on a game project for children using Unity. In addition to my web development skills, I have a keen interest in artificial intelligence and neural networks. I enjoy exploring how these technologies can be integrated into my projects to enhance their functionality and user experience.
-🌐 Social Media
 
+## 🌐 Social Media
+- [LinkedIn](https://www.linkedin.com/in/a-faruk-namal)
+- [GitHub](https://github.com/afnamal)
 🏅 Projects
 
 Falcim
