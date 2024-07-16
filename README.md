@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Faruk+Namal;Experienced+Fullstack+Web+Developer;Passionate+about+AI+and+Machine+Learning;Creating+Innovative+Web+Applications)](https://git.io/typing-svg)
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
+## <picture><img src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gi](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Jnb2tnNmN0ZDAzOGw0a3FmM2M0cW5rMGd3ZHF6ZmJrMGRhaWJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hL9q5k9dk9l0wGd4e0/giphy.gif)" width="50px"></picture> About Me
 
 <picture> <img align="right" src="https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif" width="250px"></picture>
 <br>
