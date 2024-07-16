@@ -7,7 +7,7 @@
   </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Abdullah+Faruk+Namal;I+am+a+Fullstack+Web+Developer;I'm+currently+studying+Computer+Engineering;at+Yalova+University;I'm+passionate+about+web+development;and+artificial+intelligence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Abdullah+Faruk+Namal;I+am+a+Fullstack+Web+Developer;I+graduated+in+Computer+Engineering;from+Yalova+University;I'm+passionate+about+web+development;and+artificial+intelligence.)](https://git.io/typing-svg)
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
 
@@ -17,7 +17,7 @@
   <div style="flex: 1;">
     <ul style="list-style: none; padding: 0;">
       <li><strong>Fullstack Web Developer</strong></li>
-      <li>Senior year Computer Engineering student at Yalova University</li>
+      <li>Graduated in Computer Engineering from Yalova University</li>
       <li>Developing practical projects independently and with peers</li>
       <li>Proficient in Vue.js, HTML, CSS, JavaScript, and backend technologies</li>
       <li>Passionate about artificial intelligence and neural networks</li>
