@@ -1,60 +1,45 @@
-# 🏆 About Me
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Faruk%20Namal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-Hello! I am a frontend web developer with a strong passion for creating visually appealing and user-friendly websites. My expertise lies in Vue.js, React, and JavaScript. I love crafting seamless and interactive user experiences. 
+<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afnamal&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnamal&layout=compact&langs_count=7&theme=react"/>
+  </div>
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=afnamal&count_private=false&theme=react"/>
+  </div>
+</div>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
 
-Currently, I am working on a game project for children using Unity. In addition to my web development skills, I have a keen interest in artificial intelligence and neural networks. I enjoy exploring how these technologies can be integrated into my projects to enhance their functionality and user experience.
+<picture> <img align="right" src="https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing" width = 250px></picture>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0;">
+      <li><strong>Frontend Web Developer</strong></li>
+      <li>Senior year Computer Engineering student at Yalova University</li>
+      <li>Developing practical projects independently and with peers</li>
+      <li>Proficient in Vue.js, HTML, CSS, and JavaScript</li>
+      <li>Passionate about artificial intelligence and neural networks</li>
+    </ul>
+  </div>
+</div>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,vue,html,css,python,unity,firebase,git,github,postman,bootstrap" />
+  <img align="right" alt="pic" height="150" style="border-radius:50px;"  src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
+</div>
+<hr>
+<div> 
+  <a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/your_twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/a-faruk-namal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-## 🌐 Social Media
-- [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/a-faruk-namal) [LinkedIn](https://www.linkedin.com/in/a-faruk-namal)
-- [![GitHub](https://img.icons8.com/ios-filled/24/ffffff/github.png)](https://github.com/afnamal) [GitHub](https://github.com/afnamal)
+<br><br>
 
-  
-## 🏅 Projects
-### Falcım
-- A coffee fortune-telling application developed using Vue.js and Firebase.
-- Supports multiple languages, including Turkish, English, Arabic, and Greek.
-- Utilizes machine learning models for analyzing coffee and palm readings.
-- [Explore Falcım](https://falc-m.vercel.app)
-
-### Chat-Site
-- A lightweight messaging platform built with Vue.js and Firebase.
-- Provides a fast and user-friendly communication tool.
-
-### Stay Away
-- A Unity-based game designed for children.
-- Features two tanks competing against each other, promoting strategic thinking.
-- Utilizes assets from the Unity Asset Store for animations and in-game objects.
-
-## 🚀 Current Focus
-- Learning and working with React and Node.js.
-- Enhancing project designs with animations and slides using various libraries.
-- Advancing knowledge in artificial intelligence and machine learning for future projects.
-- Conducting research and developing projects in the fields of Web3 and decentralized finance (DeFi).
-
-## 🛠️ Technologies and Tools
-### Languages and Frameworks:
-![JavaScript](https://cdn-icons-png.flaticon.com/24/919/919828.png) JavaScript
-![Vue.js](https://img.icons8.com/color/24/000000/vue-js.png) Vue.js
-![React](https://cdn-icons-png.flaticon.com/24/919/919851.png) React
-![Node.js](https://cdn-icons-png.flaticon.com/24/919/919825.png) Node.js
-![Python](https://cdn-icons-png.flaticon.com/24/919/919852.png) Python
-![C#](https://cdn-icons-png.flaticon.com/24/6132/6132221.png) C#
-
-### Libraries and Frameworks:
-![Firebase](https://cdn-icons-png.flaticon.com/24/732/732221.png) Firebase
-![Bootstrap](https://cdn-icons-png.flaticon.com/24/5968/5968672.png) Bootstrap
-![Unity](https://cdn-icons-png.flaticon.com/24/5968/5968873.png) Unity
-
-### Databases:
-![MS SQL](https://cdn-icons-png.flaticon.com/24/919/919836.png) MS SQL
-
-### Others:
- ![Git](https://cdn-icons-png.flaticon.com/24/919/919843.png) Git
- ![Docker](https://cdn-icons-png.flaticon.com/24/919/919853.png) Docker
- ![Postman](https://img.icons8.com/ios-filled/24/ffffff/postman.png) Postman
- ![Jupyter Notebook](https://img.icons8.com/ios-filled/24/ffffff/jupyter.png) Jupyter Notebook
- ![Pytest](https://img.icons8.com/ios-filled/24/ffffff/test-tube.png) Pytest
-
----
-
-Feel free to connect with me on any of the social media platforms above!
+<div align="center">
+  <img src="https://profile-counter.glitch.me/afnamal/count.svg" alt="Profile Views" />
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer"/>
