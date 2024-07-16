@@ -1,18 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Faruk%20Namal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Faruk+Namal;Experienced+Fullstack+Web+Developer;Passionate+about+AI+and+Machine+Learning;Creating+Innovative+Web+Applications)](https://git.io/typing-svg)
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
 
-<picture> <img align="right" src="https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing" width="250px"></picture>
+<picture> <img align="right" src="https://via.placeholder.com/250" width="250px"></picture>
 <br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 1;">
     <ul style="list-style: none; padding: 0;">
       <li><strong>Fullstack Web Developer</strong></li>
       <li>Experienced in developing practical projects independently and with teams</li>
-      <li>Proficient in Vue.js, HTML, CSS, JavaScript, and backend technologies</li>
+      <li>Proficient in Vue.js, React, HTML, CSS, JavaScript, and backend technologies</li>
       <li>Passionate about artificial intelligence and neural networks</li>
     </ul>
   </div>
