@@ -9,9 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Abdullah+Faruk+Namal;I+am+a+Fullstack+Web+Developer;I+graduated+in+Computer+Engineering;from+Yalova+University;I'm+passionate+about+web+development;and+artificial+intelligence.)](https://git.io/typing-svg)
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
 
-<picture> <img align="right" src="https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing" width="250px"></picture>
 <br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 1;">
