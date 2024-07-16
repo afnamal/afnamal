@@ -1,15 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Faruk%20Namal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
-  <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afnamal&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs,prs&exclude_repo=unused_repo"/>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=afnamal&count_private=false&theme=react"/>
-  </div>
+ 
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Abdullah+Faruk+Namal;I+am+a+Fullstack+Web+Developer;I+graduated+in+Computer+Engineering;from+Yalova+University;I'm+passionate+about+web+development;and+artificial+intelligence.)](https://git.io/typing-svg)
 
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
 
+<picture> <img align="right" src="https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing" width="250px"></picture>
 <br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 1;">
