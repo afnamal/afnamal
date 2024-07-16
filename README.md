@@ -7,7 +7,7 @@
   </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Faruk+Namal;Experienced+Fullstack+Web+Developer;Specializing+in+Vue.js+and+JavaScript;Passionate+about+AI+and+Machine+Learning;Creating+Innovative+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BCDA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Faruk+Namal;Experienced+Fullstack+Web+Developer;Passionate+about+AI+and+Machine+Learning;Creating+Innovative+Web+Applications)](https://git.io/typing-svg)
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
 
@@ -31,9 +31,8 @@
 </div>
 <hr>
 <div> 
-  <a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/your_twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/afnamal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:afnamal15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/a-faruk-namal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
